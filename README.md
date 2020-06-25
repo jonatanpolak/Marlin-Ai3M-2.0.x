@@ -1,10 +1,10 @@
-# Anycubic i3 Mega / Mega-S Marlin 2.0.x by davidramiro
+# Anycubic i3 Mega X 2020 based on Marlin 2.0.x by davidramiro
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3MFT8QMP5ZRCE&source=url)  [![Open Issues](https://img.shields.io/github/issues-raw/davidramiro/Marlin-Ai3M-2.0.x.svg?style=flat)](https://github.com/davidramiro/Marlin-Ai3M-2.0.x/issues?q=is%3Aopen+is%3Aissue) [![Closed Issues](https://img.shields.io/github/issues-closed-raw/davidramiro/Marlin-Ai3M-2.0.x.svg?style=flat)](https://github.com/davidramiro/Marlin-Ai3M-2.0.x/issues?q=is%3Aissue+is%3Aclosed)  [![Travis CI](https://api.travis-ci.org/davidramiro/Marlin-Ai3M-2.0.x.svg?branch=bugfix-2.0.x)](https://travis-ci.org/davidramiro/Marlin-Ai3M-2.0.x)  [![License](https://img.shields.io/github/license/davidramiro/Marlin-Ai3M-2.0.x.svg?style=flat)](https://github.com/davidramiro/Marlin-Ai3M-2.0.x/blob/master/LICENSE)
 
 ## Beta build - use with caution!
 
-This is the newest version of the [Marlin Firmware](https://github.com/MarlinFirmware/Marlin), customized and optimized for the Anycubic i3 Mega, based on my [Marlin-Ai3M repository](https://github.com/davidramiro/Marlin-Ai3M/).
+This is the newest version of the [Marlin Firmware](https://github.com/MarlinFirmware/Marlin), customized and optimized for the Anycubic i3 Mega X 2020, based on my [Marlin-Ai3M-2.0.x repository](https://github.com/davidramiro/Marlin-Ai3M-2.0.x).
 
 While I will try to keep this version updated with the latest changes from the Marlin firmware, for now the old readme and Wiki still applies.
 
